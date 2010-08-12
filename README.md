@@ -6,7 +6,7 @@ These are the slides and images used in my Git Workflow talk. A PDF version is a
 
 By all means, fork and improve this talk for me! :) Thanks!
 
-## A thanks for borrowed images
+### A thanks for borrowed images
 
 - [Vincent Driessen](http://nvie.com/git-model "a successful Git branching model")
 
